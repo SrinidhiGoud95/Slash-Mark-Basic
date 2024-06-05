@@ -1,1 +1,1 @@
-# Slash-Mark-Basic
+# Slash-Mark-Basic color detection 
